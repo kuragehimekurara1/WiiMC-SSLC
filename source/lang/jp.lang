@@ -1,1 +1,650 @@
-�
+msgid "********"
+msgstr "••••••••"
+
+msgid "Videos"
+msgstr "動画"
+
+msgid "Music"
+msgstr "音楽"
+
+msgid "Online Media"
+msgstr "オンラインメディア"
+
+msgid "Please Wait"
+msgstr "しばらくお待ちください"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Retry"
+msgstr "リトライ"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Play"
+msgstr "プレイ"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Single Play"
+msgstr "シングルプレイ"
+
+msgid "Continuous Play"
+msgstr "連続で再生"
+
+msgid "Shuffle"
+msgstr "シャッフル"
+
+msgid "Loop"
+msgstr "ループ"
+
+msgid "Continuous"
+msgstr "連続"
+
+msgid "Through"
+msgstr "を通して"
+
+msgid "Screensaver Art"
+msgstr "スクリーンセーバー アート"
+
+msgid "Internal Loops"
+msgstr "Loop interno"
+
+msgid "Top"
+msgstr "Arriba"
+
+msgid "Side"
+msgstr "Al lado"
+
+msgid "Full"
+msgstr "Completo"
+
+msgid "Playlist"
+msgstr "Lista de reprodución"
+
+msgid "Restart"
+msgstr "Reiniciar"
+
+msgid "Loading..."
+msgstr "ロード中..."
+
+msgid "Global"
+msgstr "Generales"
+
+msgid "Network"
+msgstr "Conexión"
+
+msgid "Subtitles"
+msgstr "Subtítulos"
+
+msgid "Subtitle Delay"
+msgstr "Retraso de subtítulos"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "On"
+msgstr "オン"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Always"
+msgstr "常に"
+
+msgid "Disabled"
+msgstr "使用不可"
+
+msgid "Skip Backward"
+msgstr "後方にスキップ"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Skip Forward"
+msgstr "前方にスキップ"
+
+msgid "Single"
+msgstr "シングル"
+
+msgid "Now Playing"
+msgstr "再生中"
+
+msgid "Previous"
+msgstr "前"
+
+msgid "Next"
+msgstr "次"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "Go back"
+msgstr "戻る"
+
+msgid "Unrecognized DVD format!"
+msgstr "認識できないDVD形式です！"
+
+msgid "Port cannot be blank!"
+msgstr "¡Necesario añadir puerto!"
+
+msgid "Port is not a number!"
+msgstr "¡El puerto debe ser un número!"
+
+msgid "Port is outside the allowed range (4-49151)!"
+msgstr "¡Puerto fuera del rango (4-49151)!"
+
+msgid "Settings - Global"
+msgstr "設定 - グローバル"
+
+msgid "Settings - Videos"
+msgstr "設定 - 動画"
+
+msgid "Settings - Music"
+msgstr "設定 - 音楽"
+
+msgid "Settings - Online Media"
+msgstr "設定 - オンラインメディア"
+
+msgid "Settings - Network"
+msgstr "設定 - ネットワーク"
+
+msgid "Settings - DVD"
+msgstr "設定 - DVD"
+
+msgid "ファイル拡張子"
+msgstr "Extensiones de archivo"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Volume"
+msgstr "音量"
+
+msgid "Exit Action"
+msgstr "Acción al salir"
+
+msgid "Wii Remote Rumble"
+msgstr "Vibración"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Return to Wii Menu"
+msgstr "Volver al Menú Wii"
+
+msgid "Power Off Wii"
+msgstr "Apagar Wii"
+
+msgid "Return to Loader"
+msgstr "Volver a la aplicación"
+
+msgid "Screen Zoom"
+msgstr "Zoom"
+
+msgid "Screen Position"
+msgstr "Posición"
+
+msgid "Frame Dropping"
+msgstr "Disminuir cuadros"
+
+msgid "Aspect Ratio"
+msgstr "Formato pantalla"
+
+msgid "Cache Fill"
+msgstr "Memoria inicial"
+
+msgid "Audio Delay"
+msgstr "Retraso de audio"
+
+msgid "Auto-Resume"
+msgstr "Reinicio automático"
+
+msgid "Videos Folder"
+msgstr "Carpeta de videos"
+
+msgid "Force Fullscreen in 4:3"
+msgstr "Tamaño completo en 4:3"
+
+msgid "Volume Normalizer"
+msgstr "Iguala el volumen"
+
+msgid "Deflicker"
+msgstr "Defliqueador"
+
+msgid "Set VI Width to 720"
+msgstr "Cambia el ancho a 720"
+
+msgid "Skip Deblocking Filter"
+msgstr "Saltar filtro in-loop"
+
+msgid "Play Order"
+msgstr "Modo de reproducción"
+
+msgid "Music Folder"
+msgstr "Carpeta de audio"
+
+msgid "Pictures Files Folder"
+msgstr "Carpeta de imágenes"
+
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+msgid "Share IP"
+msgstr "IP"
+
+msgid "Share Name"
+msgstr "Carpeta"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "New Share"
+msgstr "Nueva carpeta compartida"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Delete Share"
+msgstr "Eliminar carpeta compartida"
+
+msgid "Are you sure that you want to delete this share?"
+msgstr "¿Seguro de eliminar carpeta compartida?"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Folder"
+msgstr "Carpeta"
+
+msgid "Mode"
+msgstr "モード"
+
+msgid "New Site"
+msgstr "Nueva dirección"
+
+msgid "Passive"
+msgstr "Pasivo"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Delete Site"
+msgstr "Eliminar dirección"
+
+msgid "Are you sure that you want to delete this site?"
+msgstr "¿Seguro de eliminar esta dirección?"
+
+msgid "Port"
+msgstr "ポート"
+
+msgid "Error loading file!"
+msgstr "¡Error cargando archivo!"
+
+msgid "Resume"
+msgstr "Reiniciar"
+
+msgid "Online Media Folder"
+msgstr "Carpeta medios online"
+
+msgid "Banner Screensaver"
+msgstr "Screensaver Online"
+
+msgid "Add SMB Share"
+msgstr "Conexión al PC"
+
+msgid "Add FTP Site"
+msgstr "Conexión FTP"
+
+msgid "DVD Menu"
+msgstr "DVDメニュー"
+
+msgid "DVD Sync Type"
+msgstr "Método de scan"
+
+msgid "Mixed"
+msgstr "Mixto"
+
+msgid "Skip to Main Title"
+msgstr "Ir al título principal"
+
+msgid "Unable to Initialize MPlayer"
+msgstr "Imposible iniciar MPlayer"
+
+msgid "Unable to find a valid working path"
+msgstr "Imposible encontrar una ruta válida"
+
+msgid "Unable to change path to"
+msgstr "Imposible de cambiar ruta a"
+
+msgid "Out of memory: too many files!"
+msgstr "¡Memoria sobrepasada: demasiados archivos!"
+
+msgid "Directory name is too long!"
+msgstr "¡Nombre de carpeta demasiado largo!"
+
+msgid "SD Card"
+msgstr "SDカード"
+
+msgid "USB Mass Storage"
+msgstr "Dispositivo USB"
+
+msgid "Data DVD"
+msgstr "DVD de datos"
+
+msgid "USB drive not found!"
+msgstr "¡Dispositivo USB no encontrado!"
+
+msgid "SD card not found!"
+msgstr "¡Tarjeta SD no encontrada!"
+
+msgid "Loading DVD..."
+msgstr "Cargando DVD..."
+
+msgid "No disc inserted!"
+msgstr "¡Ningún disco insertado!"
+
+msgid "Invalid DVD."
+msgstr "DVD no válido."
+
+msgid "Up One Level"
+msgstr "Subir nivel"
+
+msgid "Error opening"
+msgstr "Error abriendo"
+
+msgid "Warning"
+msgstr "Atención"
+
+msgid "Error loading playlist!"
+msgstr "¡Error cargando lista de reproducción!"
+
+msgid "Playlist does not contain any supported entries!"
+msgstr "¡Lista de reprodución sin nada compatible!"
+
+msgid "No Results Found"
+msgstr "Nada encontrado"
+
+msgid "Your search did not match any media files."
+msgstr "Ningún archivo multimedia encontrado."
+
+msgid "Error opening file!"
+msgstr "¡Error abriendo archivo!"
+
+msgid "Saving..."
+msgstr "Guardándo..."
+
+msgid "Error creating file!"
+msgstr "¡Error creando archivo!"
+
+msgid "Error saving file!"
+msgstr "¡Error guardando archivo!"
+
+msgid "Playlist is Empty"
+msgstr "Lista de reproducción vacia"
+
+msgid "Hover over items and push the + button to add them to your playlist."
+msgstr "Seleccione elemento y pulse el botón + para agregarlo a la lista de reproducción."
+
+msgid "Exit Playlist"
+msgstr "Salir de la lista de reproducción"
+
+msgid "Initializing network..."
+msgstr "Iniciando conexión..."
+
+msgid "Check settings file."
+msgstr "Compruebe archivo de opciones."
+
+msgid "Share name is blank."
+msgstr "Añada carpeta."
+
+msgid "Share IP is blank."
+msgstr "Añada IP."
+
+msgid "Invalid network share settings"
+msgstr "Opciones conexión inválidas"
+
+msgid "Connecting to network share..."
+msgstr "Estableciendo conexión..."
+
+msgid "Failed to connect to network share."
+msgstr "Error en la conexión."
+
+msgid "IP is blank."
+msgstr "IP en blanco."
+
+msgid "Username is blank."
+msgstr "Nombre usuario en blanco."
+
+msgid "Password is blank."
+msgstr "Contraseña en blanco."
+
+msgid "Invalid FTP site settings"
+msgstr "Dirección FTP inválida"
+
+msgid "Connecting to FTP site..."
+msgstr "Conectando a sitio FTP..."
+
+msgid "Failed to connect to FTP site."
+msgstr "Conexión FTP fallida."
+
+msgid "Could not find a valid SD or USB device - one is required for normal operation."
+msgstr "Dispositivo SD o USB no encontrado - necesario para continuar."
+
+msgid "Could not create folder"
+msgstr "Imposible crear carpeta"
+
+msgid "Saving settings..."
+msgstr "Opciones guardadas..."
+
+msgid "Could not save settings to"
+msgstr "Imposible guardar opciones"
+
+msgid "Thanks to"
+msgstr "お陰で"
+
+msgid "Menu artwork"
+msgstr "Iconos del menú"
+
+msgid "Programming"
+msgstr "Programación"
+
+msgid "& menu design"
+msgstr "& diseño del menú"
+
+msgid "This is a private build of WiiMC."
+msgstr "Esto es una versión privada de WiiMC."
+
+msgid "Logo"
+msgstr "ロゴ"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Buffering..."
+msgstr "Cargando..."
+
+msgid "Buffering"
+msgstr "Cargando"
+
+msgid "Unable to initialize network (Error #:"
+msgstr "Imposible iniciar conexión (Error #:"
+
+msgid "Settings - Subtitles"
+msgstr "Opciones - Subtítulos"
+
+msgid "Visibility"
+msgstr "Visibilidad"
+
+msgid "Monospaced"
+msgstr "Monoespaciada"
+
+msgid "Delay"
+msgstr "Retrasar"
+
+msgid "Codepage"
+msgstr "Codificacion"
+
+msgid "Subtitle Language"
+msgstr "Idioma subtítulo"
+
+msgid "Default"
+msgstr "Por defecto"
+
+msgid "Could not change language. Not enough memory!"
+msgstr "¡Imposible cambiar idioma. Memoria insuficiente!"
+
+msgid "Font Required"
+msgstr "Fuente requerida"
+
+msgid "Out of Memory"
+msgstr "Fuera de memoria"
+
+msgid "Subtitle Codepage"
+msgstr "Codificación Subtítulo"
+
+msgid "This directory contains more entries than the maximum allowed. Not all entries will be visible."
+msgstr "Este directorio contiene más entradas del máximo permitido. No todas serán visibles."
+
+msgid "This playlist contains more entries than the maximum allowed. Not all entries will be visible."
+msgstr "Esta lista de reproducción contiene más entradas del máximo permitido. No todas serán visibles."
+
+msgid "White"
+msgstr "白色"
+
+msgid "Black"
+msgstr "黒色"
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid "Red"
+msgstr "赤色"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Sleep Timer"
+msgstr "Temporizador"
+
+msgid "sec"
+msgstr "seg"
+
+msgid "min"
+msgstr "min"
+
+msgid "Auto-Play Next Video"
+msgstr "Auto-Play siguiente video"
+
+msgid "Adding files to playlist..."
+msgstr "Añadiendo ficheros a la lista de reproducción..."
+
+msgid "Browser Folders"
+msgstr "Buscador de Carpetas"
+
+msgid "Static"
+msgstr "Bloquear la Configuración Actual"
+
+msgid "Use Last Browsed"
+msgstr "Última Búsqueda"
+
+msgid "Audio Language"
+msgstr "Idioma para el audio"
+
+msgid "DVD Support"
+msgstr "Soporte DVD"
+
+msgid "Interlacing"
+msgstr "Entrelazado"
+
+msgid "Interlacing"
+msgstr "Entrelazar"
+
+msgid "Blur"
+msgstr "Filtro Vertical"
+
+msgid "Resolution exceeds maximum allowed (1024x720)!"
+msgstr "La resolución excede el máximo permitido (1024x720)!"
+
+msgid "Online media file is invalid."
+msgstr "El archivo Online Media es inválido"
+
+msgid "Subtitle font file not found. Subtitles will not be visible."
+msgstr "La fuente del subtítulo no se encuentra. El subtítulo no estará visible."
+
+msgid "WiiMC does not have DVD access."
+msgstr "WiiMC no tiene acceso al DVD."
+
+msgid "Starting Area"
+msgstr "Área de inicio"
+
+msgid "Artwork Viewer"
+msgstr "Carátulas y portadas"
+
+msgid "Artwork Viewer"
+msgstr "Carátulas y portadas"
+
+msgid "Art Folder"
+msgstr "Carpeta de carátulas y portadas"
+
+msgid "Screensaver Banner Limiter"
+msgstr "Límite de banners"
+
+msgid "Banner Folder"
+msgstr "Carpeta de banners"
+
+msgid "JPEG Resample"
+msgstr "JPEG suave"
+
+msgid "Night Filter"
+msgstr "Filtro nocturno"
+
+msgid "Screen Burn-in Reduction"
+msgstr "Protector de pantalla"
+
+msgid "Force 576p"
+msgstr "Modo 576p"
+
+msgid "Enhanced Resolution"
+msgstr "Definición mejorada"
+
+msgid "Error opening font file!"
+msgstr "Error abriendo la fuente del archivo!"
+
+msgid "Could not change language. The font file is corrupted!"
+msgstr "No se puede cambiar de idioma. Fuente del archivo erronea!"
+
+msgid "The current IOS is unsupported. Functionality and/or stability may be adversely affected."
+msgstr "El IOS actual no es soportado. La funcionalidad y/o estabilidad pueden verse drásticamente afectadas."
+
+msgid "Screensaver Delay"
+msgstr "Retraso del salvapantallas"
+
+msgid "Inactivity Shutdown"
+msgstr "Cierre por inactividad"
+
+msgid "Invalid subtitle delay."
+msgstr "No válido el retraso de subtítulos."
+
+msgid "DVD playback is not supported on this Wii."
+msgstr "La reproducción de DVD no es compatible con esta consola."
